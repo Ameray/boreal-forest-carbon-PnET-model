@@ -1,0 +1,35 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Thematic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Layer_1</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>1</HistMin>
+        <HistMax>339</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>2355|667|46|1178|16467|144|9442|43|15393|2457|43|879|22186|17311|1573|11623|5172|7509|2249|12718|668|6388|842|689|39088|568|697|448|1687|48|9253|1742|417|441|70|471|2325|1043|4529|351|373|49|769|240|6|3|16726|8075|31|1909|146|171|1228|123|42|1547|458|222|467|203|305|1465|342|62|13132|14|129|590|201|272|31|69|35|8|35|192|649|400|531|1300|757|2|8266|5|980|3|685|22|1085|415|308|106|225|2|178|187|3|48|899|2|359|314|52|405|3147|81|531|565|247|2|685|31|292|1182|71|756|61|31|263|711|60|55|287|22|155|75|127|419|28|1701|221|91|328|293|92|221|4|21|136|28|51|153|1797|11|25|84|5|27|5|11|97|795|671|32|8|2|14|10|77|15|14|25|45|3|1|6|22|10|46|2|24|22|7|5|26|10|5|2|4|40|36|11|5|16|15|1|0|7|8|3|16|14|74|31|13|15|10|21|4|5|1|1|4|4|2|69|3|5|2|13|14|27|5|3|3|15|5|1|19|23|4|21|3|4|5|4|3|83|23|5|12|4|15|5|9|2|4|3|5|4|1|2|6|2|0|3|4|2|10|3|3|5|1|1|2|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="LAYER_TYPE">athematic</MDI>
+      <MDI key="RepresentationType">THEMATIC</MDI>
+      <MDI key="STATISTICS_COVARIANCES">1919.369709827511</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">339</MDI>
+      <MDI key="STATISTICS_MEAN">47.105369302844</MDI>
+      <MDI key="STATISTICS_MEDIAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">1</MDI>
+      <MDI key="STATISTICS_MODE">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">43.810611840369</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
